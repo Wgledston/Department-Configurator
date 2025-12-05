@@ -1,0 +1,9 @@
+# Core dependencies
+selenium==4.24.0
+webdriver-manager==4.0.2
+python-dotenv==1.0.1
+pydantic==2.5.0
+pydantic-settings==2.1.0
+
+# Local dependency (install with: pip install -e ../selenium-core)
+# selenium-core
